@@ -34,3 +34,9 @@ def run_tests():
 
 # Edit this code
 def guestlist(name):
+
+    if name == "Elizabeth Hurley" or name == "Victoria Beckham":
+        print("Come on in!")
+
+    else:
+        print("You're not on the list - scram!")
